@@ -11,8 +11,8 @@ function round(you, cards, totalPoints) {
      let yourCard = ask.ask(you) // ity soloina amle any aminao fotsiny aveo
 
     // L'IA reponds aléatoirement parmi les cartes
-    // function IA
-    let IAresponse = adversaire.IA(cards) // ity soloina amle any @fotsiny aveo
+    // function IA na hafa
+    let IAresponse = adversaire.IA(cards) // ity soloina amle any aminao fotsiny aveo
     console.log(`Robot  ▶ ${IAresponse}`);
 
     // "let points" ilay resultat ana manche iray
