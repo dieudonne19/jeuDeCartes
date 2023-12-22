@@ -1,6 +1,6 @@
 
 
-function congratYou(you) {
+function congratYou(you) { // le parametre "you" io akana anle pseudo anle joueur fotsiny
     console.log(
         `:::::::::::::::::::::::::::::::::::::::\n
 ::::::::......🎉${you} WIN ...........\n
