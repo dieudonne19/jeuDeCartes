@@ -8,7 +8,7 @@ const adversaire = require('./IA')
 // le param "you" le pseudo anle joueur
 function round(you, cards, totalPoints) {
     // la functon ask()
-     let yourCard = ask.ask(you) // ity soloina amle any @fotsiny aveo
+     let yourCard = ask.ask(you) // ity soloina amle any aminao fotsiny aveo
 
     // L'IA reponds aléatoirement parmi les cartes
     // function IA
