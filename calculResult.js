@@ -8,7 +8,7 @@
  * 
  * @param {array[]} array 
  */
-
+// ity fonction calcule anle resultat a chaque manche
 // atao plus daholo ny index[0] anle tableau kely rehetra
 // atao plus daholo ny index[1] anle tableau kely rehetra
 
