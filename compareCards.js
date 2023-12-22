@@ -3,8 +3,6 @@
  * 
  * @param {string} you 
  * @param {any} ia 
- * @param {number} yourPoint 
- * @param {number} IApoint 
  */
 
 function compareCards (you, ia) {
