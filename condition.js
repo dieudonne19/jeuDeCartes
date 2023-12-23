@@ -6,9 +6,8 @@ const restart = require("./restartGame")
  * 
  * @param {number[]} result 
  */
-function condition(result) { //comparena le index0 sy index1
-    // le index0 le point du joueur
-    // le index1 le point du robot
+function condition(result) {
+    
     if (result[0] < result[1]) {
         congrat.congratRobot()
     }else if (result[0] > result[1]) {
