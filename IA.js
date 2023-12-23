@@ -5,7 +5,7 @@ const random = require('./random')
  * @param {array} array 
  * @returns 
  */
-function IA(array) { // soloina amle fonction anao fotsiny ity avy eo
+function IA(array) {
     return random.random(array)
 }
 
