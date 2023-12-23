@@ -13,6 +13,4 @@ function random (array) {
     return array[random]
 }
 
-// console.log(random(messages.SuccessMessage));
-
 exports.random = random
