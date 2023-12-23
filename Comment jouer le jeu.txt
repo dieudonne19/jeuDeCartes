@@ -1,1 +1,0 @@
-Executer le fichier " jeuDeCartes.js "

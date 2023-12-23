@@ -1,0 +1,6 @@
+Durant le code nous avons eu un petit probleme car pour stocker les points du joueur et ceux du robot, on a voulu créer des accumulateurs "yourPoint" et "IApoint" en dehors d'une boucle
+d'une manche qui se répète 3 fois, mais les accumulateurs s'initialisent à zéro à chaque fois.
+
+Donc, on n'a pas la totalité des points
+
+Au lieu de accumulateurs, on a choisi un tableau qui stocke le resultat de chaque manche.
