@@ -1,3 +1,4 @@
 # jeuDeCartes
-# Pour lancer le jeu executer ' jeuDeCartes.js '
+---
+| Voici un jeu de carte Eau - Feu - Plante |
 
