@@ -1,4 +1,7 @@
 # Jeu de Cartes
 ---
-Voici un jeu de carte Eau - Feu - Plante
+Voici un simple jeu de cartes dans lequel un utilisateur joue face à un robot.
+Les deux sont munis de 3 cartes, donc trois manches.
+
+## Règles :rocket: :
 
